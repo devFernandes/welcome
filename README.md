@@ -1,4 +1,8 @@
-# Welcome 😀
-Olá! 🚨 
-- Bem vindos ao repositório, 🚩
-- fiquem a vontade para olhar meus projetos 🤗
+# ✔️ Desafios de Projetos
+
+✨ Repositório criado para postagens de projetos e conhecimentos futuros
+
+- 📁 Projetos
+- 💼 Portfolio
+- 📱 APP MOBILE
+- ⚙️ Layout
