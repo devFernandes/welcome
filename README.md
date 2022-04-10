@@ -5,4 +5,5 @@
 - 📁 Projetos
 - 💼 Portfolio
 - 📱 APP MOBILE
-- ⚙️ Layout
+- 💡 Layout
+- ⚙️ API
